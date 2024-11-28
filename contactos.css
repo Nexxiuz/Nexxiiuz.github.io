@@ -155,7 +155,14 @@ html {
 .menu a:hover {
 	color: #fff;
 }
+.ubicacion{
+	position: center;
+}
 
+
+/*************************/
+/******* footer **********/
+/*************************/
 .footer {
 	background-color: var(--primary-color);
 }
