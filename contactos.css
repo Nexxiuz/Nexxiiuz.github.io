@@ -159,13 +159,16 @@ html {
   display: flex;
   justify-content: center;
   align-items: center;
-  pading-top: 5px;
+  pading-top: 2px;
+  padding-bottom:2px;
 }
 
 .ubicacion img {
   max-width: 100%; 
   height: auto;    
-  padding-top: 5px;
+  padding-top: 2px;
+  
+  padding-bottom:2px;
    
 }
 
