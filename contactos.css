@@ -162,8 +162,9 @@ html {
 }
 
 .ubicacion img {
-  max-width: 100%; /* Ajusta para que la imagen no exceda el ancho del contenedor */
-  height: auto;    /* Mantén la proporción de la imagen */
+  max-width: 100%; 
+  height: auto;    
+  padding-top: 10px;
 }
 
 
