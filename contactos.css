@@ -155,8 +155,16 @@ html {
 .menu a:hover {
 	color: #fff;
 }
-.ubicacion{
-	position: center;
+.ubicacion {
+  display: flex;
+  justify-content: center; /* Centra horizontalmente */
+  align-items: center;    /* Centra verticalmente */
+  height: 100vh;          /* Ajusta la altura del contenedor (opcional) */
+}
+
+.ubicacion img {
+  max-width: 100%; /* Ajusta para que la imagen no exceda el ancho del contenedor */
+  height: auto;    /* Mantén la proporción de la imagen */
 }
 
 
