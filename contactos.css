@@ -158,7 +158,8 @@ html {
 .ubicacion {
   display: flex;
   justify-content: center;
-  align-items: center;   
+  align-items: center;
+  pading-top: 5px;
 }
 
 .ubicacion img {
